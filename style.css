@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+    color: cornsilk;
+    font-size: small;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+}
+a{
+    color: antiquewhite;
+    font-size: 1.2rem;
+}
+a:hover{
+    background-color: blue;
+    font-size: 1.4rem;
+}
+a:visited{
+    color: azure;
+    background-color: blue;
+}
